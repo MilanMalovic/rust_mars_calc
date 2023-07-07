@@ -1,1 +1,1 @@
-# rust_mars_calc
+# convert weight from Earth to Mars
